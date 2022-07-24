@@ -1,8 +1,8 @@
 ### Hi there, I'm Nick 👋
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to meditate
 
 ### Languages and Tools:
