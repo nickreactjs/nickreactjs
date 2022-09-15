@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I like to meditate
+- ⚡ Fun fact: I like reading
 
 ### Languages and Tools:
 
