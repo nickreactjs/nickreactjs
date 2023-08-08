@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Nextjs
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Better my skillset
-- ⚡ Fun fact: I love life
+- ⚡ Pronouns: Ze/ Zir
 
 ### Languages and Tools:
 
